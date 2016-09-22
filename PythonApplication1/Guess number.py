@@ -24,6 +24,9 @@ if guess_number == number:
 else:
     print("Wykorzystano wszystkie proby, tym razem sie nie udalo. Nie poddawaj sie {0}".format(name))
 
+print("moja pierwsza gra w Pytongu, yeeeeah")
+
+
 
 
 
