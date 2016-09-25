@@ -29,6 +29,9 @@
     <Compile Include="Guess number.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="simple boolean.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Condition="Exists($(PtvsTargetsFile))" Project="$(PtvsTargetsFile)" />
   <Import Condition="!Exists($(PtvsTargetsFile))" Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
