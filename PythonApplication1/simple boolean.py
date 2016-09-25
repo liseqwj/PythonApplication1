@@ -17,3 +17,4 @@ if rain == "y":
                 moreRain = False
 print()
 print("Hooray! you can go outside safely")
+
