@@ -1,3 +1,4 @@
+from time import sleep
 rain = input("Is it raining today? y/n: ")
 if rain == "y":
     umbrella = input("Do you have an umbrella? y/n: ")
