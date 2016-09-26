@@ -29,6 +29,9 @@
     <Compile Include="Guess number.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="testing.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="simple boolean.py">
       <SubType>Code</SubType>
     </Compile>
