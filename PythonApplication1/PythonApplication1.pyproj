@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4ccbfa66-e5f6-4358-9771-4c26488f7a42</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Guess number.py</StartupFile>
+    <StartupFile>testing.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
