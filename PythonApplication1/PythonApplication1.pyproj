@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4ccbfa66-e5f6-4358-9771-4c26488f7a42</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>testing.py</StartupFile>
+    <StartupFile>pluralsightobject.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -27,6 +27,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Guess number.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="expectionhandling.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="pluralsightobject.py">
