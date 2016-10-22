@@ -8,8 +8,8 @@ def sqrt(x):
     
         
     while guess * guess != x and i < 20:
-        guess = (guess + x / guess) / 2.0
-        i += 1
+            guess = (guess + x / guess) / 2.0
+            i += 1
     return guess
 
 def main():

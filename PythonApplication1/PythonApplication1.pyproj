@@ -32,6 +32,9 @@
     <Compile Include="exceptional.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="iterables.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="root.py">
       <SubType>Code</SubType>
     </Compile>
